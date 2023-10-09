@@ -92,7 +92,7 @@ nlu:
 
 - intent: mail_send
   examples: |
-    - [derickjohn.work@gmail.com](email)
+    - [sender@gmail.com](email)
     - [bob@yahoo.bh](email)
     - [JEFFERY.AMHERST@BRITISHCOUNCIL.ORG](email)
     - [reservations@beachhotelbern.com](email)
